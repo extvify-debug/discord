@@ -1,0 +1,19 @@
+{
+  "CLEANER_BOT_TOKEN": "MTUwODAxNjAyMjQ2NzEyMTE4Mg.Gm6deb.HnQBJxG3gcLg93BsFL8bjdm4JHbEKsviyYDo9s",
+  "OWNERS": [
+    "1507858467820404916"
+  ],
+  "TARGET_SERVER_ID": "1470705870286360638",
+  "CONTROL_CHANNEL_ID": "",
+  "CLEANER_BOT_STATUS": {
+    "type": "PLAYING",
+    "text": "DM Control Panel"
+  },
+  "DM_BOTS_STATUS": {
+    "type": "PLAYING",
+    "text": " "
+  },
+  "OBC_MESSAGE": "🎉 **GIVEAWAY ENDED!** 🎉\nCongratulations, @mention! You won the **$__75__ ROBLOX Giftcard** giveaway!\n👉 [Click here to Claim!](https://discord.gg/YDMY9YgwT6) 👈",
+  "BATCH_SIZE": 50,
+  "BATCH_DELAY": 0.1
+}
